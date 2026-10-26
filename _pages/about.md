@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## 个人简介
-
+黄高见，男，工学博士，
 ## 奖励荣誉
 
 
