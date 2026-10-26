@@ -1,24 +1,24 @@
 ---
 permalink: /
-title: "欢迎来到我的学术主页"
+title: "欢迎来到我的学术主页！😃🤞🎉"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-个人简介
+## 个人简介
 
-奖励荣誉
-
-
-教育背景
+## 奖励荣誉
 
 
-学生荣誉
+## 教育背景
 
-学术兼职
 
-主讲课程
+## 学生荣誉
+
+## 学术兼职
+
+## 主讲课程
 
 
 
