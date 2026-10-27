@@ -13,7 +13,7 @@ redirect_from:
 
 ## 教育背景
 2024.01-至今：河南理工大学，博士后，合作导师：金双根（欧洲科学院院士）<br>
-2017.10-2018.10：Queen’s University Belfast，博士研究生，合作导师：Vincent Fusco（IEEE Fellow）& Yuan Ding<br>
+2017.10-2018.10：Queen’s University Belfast，博士研究生，合作导师：Vincent Fusco（IEEE Fellow）& Yuan Ding <br>
 2016.09-2021.06：桂林电子科技大学，博士，导师：欧阳缮 (原副校长)
 ## 学生荣誉
 
