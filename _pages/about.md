@@ -26,19 +26,50 @@ redirect_from:
 2024.01-至今：河南理工大学，博士后，合作导师：金双根（欧洲科学院院士）<br>
 2017.10-2018.10：Queen’s University Belfast，博士，合作导师：Vincent Fusco（IEEE Fellow）& Yuan Ding <br>
 2016.09-2021.06：桂林电子科技大学，博士，导师：欧阳缮 (原副校长)
-## 学生荣誉
+
+## 指导学生荣誉
 2026年10月，2024级硕士生张盛壮获得国家奖学金（获奖者：张盛壮）<br> 
 2026年8月，第二十一届中国研究生电子设计竞赛全国总决赛二等奖（获奖者：刘婷婷、陈佳慧、肖然）<br> 
 2026年7月，第二十一届中国研究生电子设计竞赛华中赛区团队一等奖（获奖者：刘婷婷、陈佳慧、肖然）<br> 
 2026年7月，第二十一届中国研究生电子设计竞赛华中赛区团队二等奖（获奖者：吴璠、孙海洋、张盛壮）<br> 
 2025年11月，第十一届中国研究生智慧城市技术与创意设计大赛全国三等奖（获奖者：张智豪、张鹏辉、聂宇涛、马军鹏）<br> 
 ## 学术兼职/荣誉
-2026年至今
+2026年至今，
+
+
+
 ## 主讲课程
 
-
-
-
+## 指导学生
+硕士生：<br> 
+2026级：<br> 
+刘佳慧 <br> 
+靳晶晶 <br> 
+崔中豪 <br> 
+任世丹 <br> 
+苗会鹏 <br> 
+刘浩然 <br> 
+2025级：<br> 
+刘婷婷 <br> 
+吴璠 <br> 
+肖然 <br> 
+张敏 <br> 
+宋轲 <br> 
+2024级：<br> 
+张盛壮 <br> 
+张智豪 <br> 
+聂宇涛 <br> 
+孙海洋 <br> 
+2023级：<br> 
+周玉会 <br> 
+2022级：<br> 
+雷雨欣 <br> 
+2021级：<br> 
+陈淑芬 <br> 
+张凯锣 <br> 
+本科生：<br> 
+2023级：<br> 
+马丽瑶 <br> 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
