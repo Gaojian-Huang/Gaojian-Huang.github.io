@@ -8,16 +8,21 @@ redirect_from:
 ---
 ## 个人简介
 黄高见，男，工学博士(后)，校聘副教授（硕士生导师），主要研究方向雷达通信一体化、雷达通信信号处理、物理层安全及B5G和6G相关技术。2021年6月在桂林电子科技大学获工学博士学位，期间受资助赴英国贝尔法斯特女王大学（Queen's University Belfast）联合培养，师从英国皇家工程院院士、IEEE Fellow Vincent Fusco教授与方向调制知名学者Yuan Ding教授；博士后依托欧洲科学院院士金双根教授团队，作为骨干参与了河南最大卫星接收天线站、卫星激光测距观测站以及“河南理工一号”卫星的建设工作。近年来，以第一作者或通讯作者在IEEE Trans. Commun.、IEEE Trans. Cogn. Commun. Netw.、IEEE Trans. Veh. Technol.、IEEE Trans. Netw. Sci. Eng.、IEEE Antennas Wireless Propag. Lett.等国际权威期刊发表SCI检索论文 40余篇（含多篇中科院一区/二区TOP期刊及ESI高被引论文），获授权国家发明专利3项。相关研究成果先后荣获中国发明协会发明创业奖创新奖二等奖（排名第1）、河南省教育厅科技成果奖二等奖（排名第1）、IEEE海因里希·赫兹最佳通信快报奖提名以及IEEE国际会议ECIS最佳论文奖。现担任Adv. Inf. Commun.期刊 Managing Editor、SCI期刊 Adv. Electr. Electron. Eng. 编委，《无线电工程》青年编委以及IEEE通信学会“通信感知一体化”新兴技术倡议委员会（ISAC-ETI）会员、RISTA智能超表面技术联盟会员。同时，他多次受邀担任国际会议 Workshop Chair、分会主席（Session Chair），担任 IEEE WCNC 2027 TPC Member。指导研究生荣获中国研究生创新实践系列电子设计大赛全国二等奖1项、三等奖1项，中国研究生电子设计竞赛华中赛区一等奖2项、二等奖8项，以及“大唐杯”全国大学生5G技术大赛全国总决赛二等奖1项，并获评“优秀指导教师”。
-## 奖励荣誉
+## 科研奖励/荣誉
+2026年6月，中国发明协会创新奖，二等，排名第一 <br> 
+2025年6月，河南省教育厅科技成果奖，二等，排名第一 <br>
+
+## 教学荣誉
 
 
 ## 教育背景
 2024.01-至今：河南理工大学，博士后，合作导师：金双根（欧洲科学院院士）<br>
 2017.10-2018.10：Queen’s University Belfast，博士，合作导师：Vincent Fusco（IEEE Fellow）& Yuan Ding <br>
 2016.09-2021.06：桂林电子科技大学，博士，导师：欧阳缮 (原副校长)
+
 ## 学生荣誉
 
-## 学术兼职
+## 学术兼职/荣誉
 
 ## 主讲课程
 
