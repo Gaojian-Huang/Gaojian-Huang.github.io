@@ -9,45 +9,44 @@
 
 main:
 
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
+  - title: "代表作"
+    url: /selected/
+  - title: "期刊论文"
+    url: /journals/
+  - title: "会议论文"
+    url: /conferences/
+  - title: "著作"
+    url: /books/
+  - title: "项目"
+    url: /projects/
+  - title: "专利"
+    url: /patents/
+  - title: "学术报告"
+    url: /talks/
+  - title: "获奖成果"
+    url: /awards/
+  - title: "动态"
     url: /year-archive/
+
+
+#  - title: "Publications"
+#   url: /publications/
+
+#  - title: "Talks"
+#    url: /talks/    
+
+#  - title: "Teaching"
+#  url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
-
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+#   - title: "Portfolio"
+#    url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+# - title: "Blog Posts"
+#  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+#   - title: "CV"
+#  url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+#   - title: "Guide"
+#    url: /markdown/
