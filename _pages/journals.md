@@ -8,6 +8,8 @@ author_profile: true
 <div style="text-align: justify;">
 <strong>2026年</strong> <br>
 [1] Yuhui Zhou; <strong>Gaojian Huang*</strong>; Xingwang Li; Ishtiaq Ahmad; Cheng Yin; Gongpu Wang；Physical Layer Security for STAR-RIS-Assisted NOMA Backscatter Communications Against Multiple Eavesdroppers, IEEE Transactions on Cognitive Communications and Networking, 2026, 12: 10887-10898 <br>
+[2] <strong>Gaojian Huang</strong>; Haiyang Sun; Peiqing Guo; Xingwang Li; Kefei Liao; Mengyan Huang; Performance Analysis of Reconfigurable Intelligent Surface-Assisted Integrated Sensing and Communication Systems With Hybrid Fading Channels, IEEE Wireless Communications Letters, 2026, 15: 3144-3148 <br>
+[3] <strong>Gaojian Huang</strong>; Yutao Nie; Xingwang Li; Mengyan Huang; Arumugam Nallanathan; A Unified Analytical Framework for ASTAR-RIS-Enabled Covert Communications With NOMA and SWIPT, IEEE Internet of Things Journal, 2026, 13(20): 46881-46893 <br>
 <strong>2025年</strong> <br>
 <div style="text-align: justify;">
 [1] <strong>Gaojian Huang</strong>; Yuxin Lei; Xingwang Li; Yuan Ding; Shahid Mumtaz; Arumugam Nallanathan; Multi-Dimensional Modulation Antenna Array Enabled Joint Radar-Communications, IEEE Transactions on Vehicular Technology, 2025, 74(12): 19915-19920 <br>
